@@ -21,5 +21,6 @@ class MyFirebaseMessagingService : FirebaseMessagingService() {
 
       var manager:NotificationManagerCompat= NotificationManagerCompat.from(this)
        manager.notify(101,builder.build())
+
    }
 }

@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         tabLayout=findViewById(R.id.tablayout);
         viewPager=findViewById(R.id.viewpager);
-
+//Hii I am Shivam
       val Adapterfragment= FragementAdapter(supportFragmentManager)
         viewPager.adapter= Adapterfragment;
         tabLayout.setupWithViewPager(viewPager)
