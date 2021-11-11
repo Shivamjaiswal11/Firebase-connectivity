@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460921070058",
+    "project_id": "tablayoutfirebasedemo",
+    "storage_bucket": "tablayoutfirebasedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460921070058:android:983a1476be417195985293",
+        "android_client_info": {
+          "package_name": "com.example.tablayoutfragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460921070058-rfqa6dv205pn0d14u9t271fnlepra6qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDiFWaP43z-0DmNuMvfQgbYn5gyUyAQtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460921070058-rfqa6dv205pn0d14u9t271fnlepra6qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
